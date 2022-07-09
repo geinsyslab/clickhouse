@@ -1,1 +1,1 @@
-FROM clickhouse/clickhouse-server::latest
+FROM clickhouse/clickhouse-server
